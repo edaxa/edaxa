@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edaxa
-- 👀 I’m interested in music, programming.
+- 👀 I’m interested in music and programming.
 - 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me eda.arsel@gmail.com.
